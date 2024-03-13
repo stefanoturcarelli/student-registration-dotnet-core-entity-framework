@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVC_Student_Registration.props" />
+</Project>
