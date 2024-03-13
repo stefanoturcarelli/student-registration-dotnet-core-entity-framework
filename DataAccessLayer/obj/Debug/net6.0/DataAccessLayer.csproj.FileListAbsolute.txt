@@ -13,3 +13,4 @@ C:\GitHub\dot-net-core-entity-framework\dotnet-core-entity-framework\DataAccessL
 C:\GitHub\dot-net-core-entity-framework\dotnet-core-entity-framework\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
 C:\GitHub\dot-net-core-entity-framework\dotnet-core-entity-framework\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
 C:\GitHub\dot-net-core-entity-framework\dotnet-core-entity-framework\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\GitHub\dot-net-core-entity-framework\dotnet-core-entity-framework\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.sourcelink.json
