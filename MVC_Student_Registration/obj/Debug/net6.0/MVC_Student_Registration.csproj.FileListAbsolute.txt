@@ -91,3 +91,4 @@ C:\GitHub\dot-net-core-entity-framework\dotnet-core-entity-framework\MVC_Student
 C:\GitHub\dot-net-core-entity-framework\dotnet-core-entity-framework\MVC_Student_Registration\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\GitHub\dot-net-core-entity-framework\dotnet-core-entity-framework\MVC_Student_Registration\bin\Debug\net6.0\System.Text.Json.dll
 C:\GitHub\dot-net-core-entity-framework\dotnet-core-entity-framework\MVC_Student_Registration\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\GitHub\dot-net-core-entity-framework\dotnet-core-entity-framework\MVC_Student_Registration\obj\Debug\net6.0\MVC_Student_Registration.sourcelink.json

@@ -4,46 +4,6 @@
 @{
 }
 
-@* I think I dont need these
- *@
-<script src="~/lib/jquery/dist/jquery.min.js"></script>
-<script src="~/lib/jquery/dist/jquery.js"></script>
-<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-
-<script type="text/javascript">
-    $(document).ready(function () {
-        $('#alert-success').hide();
-        $('#alert-danger').hide();
-    });
-
-    function RegisterStudent() {
-        // Prevent the default form submission behavior
-        event.preventDefault();
-
-        console.log('Registering Student...');
-
-        var studentObject = {
-            StudentFirstName: $('#student-first-name').val(),
-            StudentLastName: $('#student-last-name').val(),
-            StudentEmail: $('#student-email').val(),
-        };
-
-        $.ajax({
-            url: '/Student/RegisterStudentController',
-            type: 'POST',
-            contentType: 'application/json',
-            data: JSON.stringify(studentObject),
-            success: function (response) {
-                if (response === 'success') {
-                    console.log('Student Registered Successfully!');
-                } else {
-                    console.log('Student Registration Failed!');
-                }
-            }
-        });
-    }
-</script>
-
 <div class="container">
     <h1>Register Student</h1>
 
